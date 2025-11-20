@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.env.*
+.git/
+.gitignore
+.vscode/
+.DS_Store
+Thumbs.db
+dist/
+build/
+Dockerfile
+docker-compose.yml
