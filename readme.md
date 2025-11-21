@@ -37,7 +37,7 @@ Each service exposes a REST API with FastAPI and can run independently.
 
 ⚙️ Quick Start (Local Setup)
 1️⃣ Create virtual environment
-'''bash
+```bash
 python -m venv venv
 
 2️⃣ Activate environment
